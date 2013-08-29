@@ -76,6 +76,12 @@ h1.title {
   text-align: center;
 }
 
+.sub-title {
+  font-size: small;
+  margin-left: 230px;
+  margin-bottom: 30px;
+}
+
 .wrapper {
   width: 675px;
   margin: 0 auto;
