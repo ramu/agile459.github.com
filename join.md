@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Join"
+title: 参加方法
 description: ""
 ---
 {% include JB/setup %}

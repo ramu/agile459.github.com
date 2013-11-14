@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:year/:month/:day/:title 
 
 markdown: redcarpet
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
@@ -13,11 +13,11 @@ pygments: true
 title : アジャイル四国 (Agile459)
 tagline: アジャイル四国（Agile459）
 author :
-  name : agile459
-  email : example@xxxx.com
-  github : kkd
-  twitter : kkd
-  feedburner : kkd
+  name : Agile459
+  email : agile459.info@gmail.com
+  github : agile459
+  twitter : agile459
+  feedburner : agile459
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -84,7 +84,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : agile459
     livefyre :
       site_id : 123
     intensedebate :
@@ -117,7 +117,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : false
+    provider : true
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
