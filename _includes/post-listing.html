@@ -1,0 +1,8 @@
+{% for post in posts limit: listing_limit %}
+  <h3><a href="{{ post.url }}" class="dark-link">{{ post.title }}</a></h3>
+  <h4 class="low-top">
+    Posted on {{ post.date | date: "%Y/%m/%d" }}
+  </h4>
+  <p>{{ post.content | strip_html | truncate: 320 }}</p>
+  <p><a href="{{ post.url }}">Read more...</a></p>
+{% endfor %}
