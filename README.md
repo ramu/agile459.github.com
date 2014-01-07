@@ -1,3 +1,29 @@
+# Agile459サイトについて
+
+Jekyll+Github Pages+Jekyll-Bootstrapをベースに作成しております。
+テーマは twitter を使用しています。
+
+## サイトの構成
+
+{{{
+agile459.github.io
+|- _includes/     ... 直下に置かれるファイルは優先的に使用される。
+|  |- JB/  Jekyll-Bootstrapで用意されたファイル群
+|  |- themes/ テーマのディレクトリ
+|  |  |- twitter/ ... Twitterテーマのファイル格納先
+|  `- xxx.html   ... JBやthemes配下よりも優先的に利用されるファイル群を置く
+|- _layouts/
+|- _plugins/
+|- _site/
+|- _theme_packages/
+|- assets/
+|- images/
+|- javascripts/
+|- stylesheets/
+|- _layouts/
+|- _config.yml  ... サイトの設定ファイル
+}}}
+
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
