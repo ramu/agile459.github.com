@@ -23,4 +23,5 @@ tags: [event]
 　　　　愛媛県松山市三番町4丁目9-8 松本ビル3階  
   
 ※参加申し込みは、以下のDoorkeeperにてお願いします。  
+  
 <a class="doorkeeper-registration-widget" data-width="550" href="http://agile459.doorkeeper.jp/events/8739">その対立、解決します！『僕らは、対立を越えて協働する』~TOC対立解消図を使い倒す~</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
