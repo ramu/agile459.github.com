@@ -9,7 +9,7 @@ tags: [event]
 
 ## その対立、解決します！『僕らは、対立を越えて協働する』~TOC対立解消図を使い倒す~ セミナー開催！
 
-<img src="https://dzpp79ucibp5a.cloudfront.net/events_banners/8739_normal_1391401677_%E5%90%8D%E7%A7%B0%E6%9C%AA%E8%A8%AD%E5%AE%9A-1.jpg" alt="対立イメージ" width="50%">
+<img src="https://dzpp79ucibp5a.cloudfront.net/events_banners/8739_normal_1391401677_%E5%90%8D%E7%A7%B0%E6%9C%AA%E8%A8%AD%E5%AE%9A-1.jpg" alt="対立イメージ" width="75%">
   
 　身の回りで日常茶飯事に起こる**『対立』**。  
 　**『面倒だからあいつとは組まない』**っと避けれるものなら楽ですが、相手が職場の上司・部下・同僚や、対外的なビジネスパートナーとなるとそうもいきません。  
