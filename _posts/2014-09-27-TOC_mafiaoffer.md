@@ -3,7 +3,7 @@ layout: post
 title: "TOCを使って断れないほど魅力的な提案を作ろう！！"
 description: ""
 category: event
-tags: [agilejapan, matsuyama]
+tags: [matsuyama, event]
 ---
 {% include JB/setup %}
 
