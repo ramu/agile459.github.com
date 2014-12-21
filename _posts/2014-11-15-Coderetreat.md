@@ -12,7 +12,7 @@ tags: [matsuyama, event]
 
 Coderetreatとは、１日をかけて”ソフトウェアの設計と開発の基礎を徹底的に練習する”ことを目標に、ペアプロをしながら実装を繰り返すイベントです。
 
-![opening](http://agile459.github.com/images/2014/coderetreat/IMG_3425.jpg)
+![opening](/images/2014/coderetreat/IMG_3425.jpg)
 
 この日のお題は「コンウェイのライフゲーム」を実装することでした。  
 １セッションは45分で、午前中３回、午後３回のセッションを行いました。
@@ -36,7 +36,7 @@ Coderetreatとは、１日をかけて”ソフトウェアの設計と開発の
 見つかったら、次の空いている人とペアになって、同じように共通点を探すアクティビティです。
 このアクティビティを入れることによって、参加者同士で話しやすい空気になったと感じました。
 
-![自己紹介](http://agile459.github.com/images/2014/coderetreat/IMG_3426.jpg)
+![自己紹介](/images/2014/coderetreat/IMG_3426.jpg)
 
 ###○セッション
 　45分、コンウェイのライフゲームをペアプログラミングで開発します。
@@ -45,7 +45,7 @@ Coderetreatとは、１日をかけて”ソフトウェアの設計と開発の
 　面白いのは、「開発言語は自分が使いたい言語でOK」、「１回のセッションが終わったら、そのセッションで書いたコードは全て消す」、「ファシリテーターからチャレンジ課題が出る」ことです。
 ペアを組んだ相手が全然知らない言語を使っていたり、セッションが変わったら全然別の設計で開発していたり、普段の開発ではやったこともないような”縛り”が出てきます。
 
-![セッション中イメージ](http://agile459.github.com/images/2014/coderetreat/IMG_3428.jpg)
+![セッション中イメージ](/images/2014/coderetreat/IMG_3428.jpg)
 
 このイベントでのチャレンジ課題は、以下でした。  
 <ul>
@@ -66,11 +66,11 @@ Coderetreatとは、１日をかけて”ソフトウェアの設計と開発の
 　クロージングでは円になって「今日学んだこと、驚いたこと、休み明けの仕事で何かやり方を変えること」を発表しあいました。
 __「休み明けからTDDやってみたい」__という意見が多かったです。TDDにインパクトがあったのだなと感じました。また、__「しんどいと思っていたけど、思っていたより全然楽しかったし、勉強になった」__との感想もいただいて、嬉しかったです。
 
-![クロージングイメージ](http://agile459.github.com/images/2014/coderetreat/IMG_3442.jpg)
+![クロージングイメージ](/images/2014/coderetreat/IMG_3442.jpg)
 
-![振り返り](http://agile459.github.com/images/2014/coderetreat/IMG_3450.jpg)
+![振り返り](/images/2014/coderetreat/IMG_3450.jpg)
 
-![集合写真](http://agile459.github.com/images/2014/coderetreat/IMG_3448.jpg)
+![集合写真](/images/2014/coderetreat/IMG_3448.jpg)
 
 最後になりましたが、スポンサーを引き受けていただいた、[サイボウズ株式会社](http://cybozu.co.jp/)様、[合同会社カルチャーワークス](http://www.cultureworks.jp/CultureWorks/Welcome.html)様、[株式会社エイチビーソフトスタジオ](http://www.hbss.co.jp/)様、[合同会社ネクストコード](http://www.nextcode.jp/#/agile)様、[イヨテツケーターサービス株式会社](https://www.iyoics.jp/)様（順不同）、ありがとうございました。
 
