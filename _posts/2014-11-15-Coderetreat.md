@@ -68,7 +68,7 @@ __「休み明けからTDDやってみたい」__という意見が多かった�
 
 ![クロージングイメージ](/images/2014/coderetreat/IMG_3442.jpg)
 
-![振り返り](/images/2014/coderetreat/IMG_3450.jpg)
+![ふりかえり](/images/2014/coderetreat/IMG_3450.jpg)
 
 ![集合写真](/images/2014/coderetreat/IMG_3448.jpg)
 
