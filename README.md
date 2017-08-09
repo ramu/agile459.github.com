@@ -1,8 +1,6 @@
 # Agile459サイトについて
 
-Jekyll+Github Pages+Jekyll-Bootstrapをベースに作成しております。
-
-テーマは twitter を使用しています。
+Jekyll+Github Pages+Jekyll-Bootstrapをベースに作成しております。テーマは twitter を使用しています。
 
 ## サイトの構成
 
